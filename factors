@@ -4,7 +4,7 @@ from sys import argv
 
 
 def factorize(number_to_check):
-    """"find two small numbers that multiply to give a given number"""
+    """find two small numbers that multiply to give a given number"""
     i = 2
 
     if number_to_check < 2:
