@@ -15,3 +15,7 @@ def factorize():
                 break
         if not end:
             print("{:d}={}*{}".format(number, number, i))
+
+
+if __name__ == "__main__":
+    factorize()
